@@ -11,17 +11,17 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     var THEMES = [
         {
             config: 'white',
-            text: 'White',
+            text: 'سفید',
             id: 0
         },
         {
             config: 'sepia',
-            text: 'Sepia',
+            text: 'کرم',
             id: 1
         },
         {
             config: 'night',
-            text: 'Night',
+            text: 'شب',
             id: 2
         }
     ];
@@ -30,12 +30,12 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     var FAMILIES = [
         {
             config: 'serif',
-            text: 'Serif',
+            text: 'سریف',
             id: 0
         },
         {
             config: 'sans',
-            text: 'Sans',
+            text: 'سنس',
             id: 1
         }
     ];
